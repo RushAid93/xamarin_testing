@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E23C8918-D553-41AA-8B84-37A38E727E7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tabbedpage/OtherPage.xaml">
+    <Files>
+      <File FileName="tabbedpage/OtherPage.xaml" Line="10" Column="147" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.tabbedpage.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.tabbedpage.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0A33F69B-A531-41BA-9D89-A002AAA1B99D" />
+</Properties>

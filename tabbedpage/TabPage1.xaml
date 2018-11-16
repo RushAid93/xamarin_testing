@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="tabbedpage.TabPage1"
+             Title="Page 1" Icon="baseline_directions_car_black_24.png" BackgroundColor="Fuchsia">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Entry Text="This is Tab Page 1" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" TextColor="Black" Focused="OnPickupTapped"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
