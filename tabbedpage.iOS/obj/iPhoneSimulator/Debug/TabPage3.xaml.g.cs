@@ -13,7 +13,7 @@
 namespace tabbedpage {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/macintosh/Projects/tabbedpage/tabbedpage/TabPage3.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/macintosh/Projects/xamarin_testing/tabbedpage/TabPage3.xaml")]
     public partial class TabPage3 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
